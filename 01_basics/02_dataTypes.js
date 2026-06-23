@@ -32,3 +32,25 @@ console.log(typeof null); // object
 
 
 
+/*
+                  EXAMPlES
+*/
+
+
+let userName = "Chinu";
+let userAge = 22;
+let isStudent = true;
+let userCity = null;
+let userState;
+
+
+console.log(typeof userName);
+console.log(typeof userAge);
+console.log(typeof isStudent);
+console.log(typeof usercity);
+console.log(typeof userState);
+
+
+
+
+
